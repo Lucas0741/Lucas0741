@@ -1,5 +1,6 @@
-## Bem-vindo(a) ao meu perfil 🗿🍷
-
+<p align="center">
+Bem-vindo(a) ao meu perfil 🗿🍷
+</p>
  <div align="center">
    <a href="https://github.com/Lucas0741">
     
