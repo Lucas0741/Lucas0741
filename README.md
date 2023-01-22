@@ -45,3 +45,8 @@
   ![Snake animation](https://github.com/Lucas0741/Lucas0741/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<p align="center"> 
+  Account Views<br>
+  <img src="https://profile-counter.glitch.me/Lucas0741/count.svg" />
+</p>
